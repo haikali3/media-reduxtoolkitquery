@@ -13,6 +13,38 @@
       "id": 5
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Incredible Wooden Computer",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "title": "Unbranded Concrete Mouse",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Metal Gloves",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Frozen Shirt",
+      "id": 10
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=86691",
+      "id": 2
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1896",
+      "id": 3
+    }
+  ]
 }
