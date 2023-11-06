@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Holly Wehner",
+      "id": 1
+    },
+    {
+      "name": "Miss Julie MacGyver",
+      "id": 2
+    },
+    {
+      "name": "Diane Muller",
+      "id": 5
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
